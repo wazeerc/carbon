@@ -47,7 +47,7 @@
 		"editorSuggestWidget.border": "#1c1c1c",
 		"editorSuggestWidget.foreground": "#d9d9d9",
 		"editorSuggestWidget.highlightForeground": "#b3b3b3",
-		"editorSuggestWidget.selectedBackground": "#1c1c1c",
+		"editorSuggestWidget.selectedBackground": "#363636",
 		"panel.background": "#1c1c1c",
 		"panel.border": "#363636",
 		"panelTitle.activeBorder": "#363636",
