@@ -3,7 +3,7 @@
   "displayName": "Carbon - Dark Theme",
   "publisher": "wazeerc",
   "description": "Minimal flat theme with syntax colors inspired from Kanagawa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.107.0"
   },
