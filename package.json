@@ -15,7 +15,8 @@
     "dark",
     "kanagawa",
     "clean",
-    "minimal"
+    "minimal",
+    "carbon"
   ],
   "repository": {
     "type": "git",
@@ -25,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "carbon",
+        "label": "Carbon",
         "uiTheme": "vs-dark",
         "path": "./themes/carbon-color-theme.json"
       }
