@@ -1,0 +1,21 @@
+{
+  "name": "carbon",
+  "displayName": "carbon",
+  "description": "Minimal dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "carbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-color-theme.json"
+      }
+    ]
+  }
+}
