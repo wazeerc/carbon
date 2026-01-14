@@ -20,6 +20,7 @@
 		"editorWhitespace.foreground": "#1c1c1c",
 		"editorIndentGuide.background1": "#1c1c1c",
 		"editorHoverWidget.background": "#1c1c1c",
+		"editorHoverWidget.border": "#363636",
 		"editorLineNumber.activeForeground": "#d9d9d9",
 		"editorLineNumber.foreground": "#363636",
 		"editorGutter.background": "#1c1c1c",
